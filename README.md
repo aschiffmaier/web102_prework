@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -26,15 +26,22 @@ Here's a walkthrough of implemented features:
 <img src='https://raw.githubusercontent.com/aschiffmaier/web102_prework/main/video%20walkthrough.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ... LiceCap via [https://www.cockos.com/licecap/]
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+[LiceCap] https://www.cockos.com/licecap/
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the main challenges was setting up the development environment and creating a visual walkthrough of the website. 
+This involved:
+
+* Installing Git and configuring the repository correctly to track changes.
+
+* Finding a suitable tool to record the website walkthrough as a GIF. After testing, a simple screen-to-GIF recorder worked best.
+
+* Embedding the GIF in the README: Initially, linking to the GIF via a standard GitHub page URL did not display correctly. The solution was to upload the GIF directly into the repository and then use the raw GitHub URL to successfully embed it using an <img> tag.
+
+This process ensured the walkthrough could be viewed directly in the README, clearly demonstrating the completed features.
 
 ## License
 
