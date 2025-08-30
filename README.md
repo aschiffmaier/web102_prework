@@ -25,12 +25,9 @@ Here's a walkthrough of implemented features:
 
 <img src='https://raw.githubusercontent.com/aschiffmaier/web102_prework/main/video%20walkthrough.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... LiceCap via [https://www.cockos.com/licecap/]
-<!-- Recommended tools:
-[LiceCap] https://www.cockos.com/licecap/
 
-## Notes
+Notes
 
 One of the main challenges was setting up the development environment and creating a visual walkthrough of the website. 
 This involved:
@@ -43,18 +40,18 @@ This involved:
 
 This process ensured the walkthrough could be viewed directly in the README, clearly demonstrating the completed features.
 
-## License
+License
 
-    Copyright [2025] [Allison Schiffmaier]
+Copyright [2025] [Allison Schiffmaier]
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
