@@ -36,11 +36,9 @@ This involved:
 
 * Finding a suitable tool to record the website walkthrough as a GIF. After testing, a simple screen-to-GIF recorder worked best.
 
-* Embedding the GIF in the README: Initially, linking to the GIF via a standard GitHub page URL did not display correctly. The solution was to upload the GIF directly into the repository and then use the raw GitHub URL to successfully embed it using an <img> tag.
+* Embedding the GIF in the README: Initially, linking to the GIF via a standard GitHub page URL did not display correctly. The solution was to upload the GIF directly into the repository and then use the raw GitHub URL to successfully embed it using an <img> tag. This process ensured the walkthrough could be viewed directly in the README, clearly demonstrating the completed features.
   
 * [Optional]: Added features could include a search bar to filter games by name, sorting options (most/least funded, most backers, alphabetical), progress bars on each game card, dynamic currency formatting, “Back This Game” buttons to simulate pledges, responsive layout improvements, hover animations or card effects, modals for detailed game info, a widget showing unfunded games, and persisting user filter preferences using localStorage.
-
-This process ensured the walkthrough could be viewed directly in the README, clearly demonstrating the completed features.
 
 License
 
